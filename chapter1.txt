@@ -1,2 +1,4 @@
 Front end technologies:
 HTML stands for Hyper Text Markup Language.
+CSS: Cascading style sheets
+
